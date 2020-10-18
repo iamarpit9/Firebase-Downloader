@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205392068206",
+    "firebase_url": "https://fir-file-downloader.firebaseio.com",
+    "project_id": "fir-file-downloader",
+    "storage_bucket": "fir-file-downloader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205392068206:android:b34055e52e8b2c4291b07f",
+        "android_client_info": {
+          "package_name": "com.example.firebasefiledownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205392068206-hbdq0belp53a1q9v38fvhlij868bndpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTdffDGx-xUMPoCc_soSGoFpZSWvUfNUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205392068206-hbdq0belp53a1q9v38fvhlij868bndpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
